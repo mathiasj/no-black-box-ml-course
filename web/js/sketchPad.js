@@ -5,7 +5,7 @@ class SketchPad {
     this.canvas.height = size
     this.canvas.style = `
         background-color:white;
-        box-shadow: 0 0 10px 2px black
+        box-shadow: 0 0 10px 2px grey
         `
     container.appendChild(this.canvas)
 
